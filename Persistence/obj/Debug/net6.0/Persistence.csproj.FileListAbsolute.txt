@@ -1,0 +1,15 @@
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/bin/Debug/net6.0/Persistence.dll
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/bin/Debug/net6.0/Persistence.pdb
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/bin/Debug/net6.0/Domain.dll
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/bin/Debug/net6.0/Domain.pdb
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/obj/Debug/net6.0/Persistence.dll
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/obj/Debug/net6.0/Persistence.pdb
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/Persistence/obj/Debug/net6.0/ref/Persistence.dll
