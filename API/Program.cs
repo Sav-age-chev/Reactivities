@@ -13,7 +13,7 @@ namespace API
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
 
@@ -26,7 +26,11 @@ namespace API
             {
                 var context = services.GetRequiredService<DataContext>();
 
-                context.Database.Migrate();
+                // Async method migrate context to database
+                await context.Database.MigrateAsync();
+
+                // Loading data with async method
+                await Seed.SeedData(context);
             }
             catch (Exception ex)
             {
@@ -34,7 +38,7 @@ namespace API
                 logger.LogError(ex, "An error occured during migration.");
             }
 
-            host.Run();
+            await host.RunAsync();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
