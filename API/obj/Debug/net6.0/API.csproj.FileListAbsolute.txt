@@ -58,3 +58,8 @@
 /Users/plamensavchev/Desktop/Programming Projects/Reactivities/API/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/plamensavchev/Desktop/Programming Projects/Reactivities/API/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/plamensavchev/Desktop/Programming Projects/Reactivities/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/API/bin/Debug/net6.0/MediatR.dll
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/API/bin/Debug/net6.0/MediatR.Contracts.dll
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/API/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/API/bin/Debug/net6.0/AutoMapper.dll
+/Users/plamensavchev/Desktop/Programming Projects/Reactivities/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
